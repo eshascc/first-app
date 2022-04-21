@@ -1,0 +1,56 @@
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  
+}
+
+.container{
+ 
+  background-color:#dfe9f1;
+  width: 1440px;
+  height: 720px;
+  border-radius:  10px;
+  position: relative;
+  margin: -63px;
+
+
+}
+.QR_container{
+  width: 250px;
+  height: 423px;
+  background-color:white;
+  position: absolute;
+  left: 671px;
+  top: 16%;
+  border-radius: 20px;
+}
+ .QR_Code_Issue{
+  
+  width: 230px;
+  height: 229px;
+  position: absolute;
+  margin-top: 10px;
+  margin-left: 10px;
+  border-radius: 20px;
+ }
+.img{
+  width: 250px;
+  padding: 10px;
+  border-radius: 20px;
+}
+.p{
+  font-size: 15px;
+  font-weight: bold;
+  padding: 10px;
+}
+.p_opacity{
+  font-size: 17px;
+  padding: 10px;
+  opacity: 40%;
+}
+body{
+  overflow-x: hidden;
+}
+
+
